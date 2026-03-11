@@ -205,6 +205,3 @@ export const featuredProjects = [
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,25:2563eb,50:5b21b6,75:1a1a40,100:0f0f1a" alt="footer" />
 </p>
 ```
-
-* Ce format évite les tableaux HTML, qui cassent souvent dans GitHub README.
-* Le rendu reste statique côté GitHub : le JavaScript est simulé visuellement via des blocs de code et des widgets externes.
