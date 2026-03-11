@@ -1,47 +1,69 @@
-<h1 align="center">"𝐼𝑐ℎ 𝑏𝑖𝑛 𝑓𝑟𝑒𝑖, 𝑢𝑛𝑑 𝑑𝑒𝑠ℎ𝑎𝑙𝑏 𝑏𝑖𝑛 𝑖𝑐ℎ 𝑣𝑒𝑟𝑙𝑜𝑟𝑒𝑛"</h1>
+<!-- =========================
+     ELI // PROFILE README
+     React-lookalike / cyber dashboard vibe
+========================= -->
 
 <p align="center">
-  <img src="https://github.com/Neyth444/Neyth444/edit/main/assets/omori.gif" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eli%20%7C%20Cyber%20Tools%20%26%20Web%20Craft&fontAlign=50&fontAlignY=40&color=0:0f0f1a,25:1a1a40,50:5b21b6,75:2563eb,100:06b6d4&fontColor=ffffff&desc=Designing%20interfaces,%20building%20tools,%20shaping%20digital%20identity.&descAlign=50&descAlignY=60" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=1000&lines=Ich+bin+frei%2C+und+deshalb+bin+ich+verloren.;Cyber+Tools+%7C+Web+Development+%7C+Creative+Interfaces;Building+portfolio+systems+with+style+and+precision." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="TON_URL_GIF_BANNER" width="820" alt="hero banner"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBER%20%2F%20WEB%20%2F%20DESIGN-1f2937?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILDING-PORTFOLIO%20EXPERIENCES-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" />
 </p>
 
 ---
 
-<h2 align="center">🔥 About Me</h2>
+<h2 align="center">◤ SYSTEM OVERVIEW ◢</h2>
 
 <p align="center">
-  👤 <strong>Eli</strong>  
-  <br>Specialized in <strong>cyber tools</strong>, <strong>web development</strong>, and <strong>portfolio design</strong>.  
+  <img src="TON_URL_IMAGE_SEPARATEUR_1" width="100%" alt="separator"/>
 </p>
 
-<p align="center">
-  🌐 <strong>Website:</strong> <a href="https://kyomu.fr">kyomu.fr</a>  
-  <br>💬 <strong>Discord:</strong> <code>@feitann444</code>  
-</p>
+<div align="center">
 
----
-
-<h2 align="center">📊 Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neyth444&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyth444&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
----
-
-<h2 align="center">🏆 Badges & Contributions</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neyth444&theme=dracula" alt="GitHub Trophies">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neyth444&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
-<h2 align="center">📈 Visitor Counter</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="Count visitor">
-</p>
+┌──────────────────────────────────────────────────────────────┐
+│                     ELI.OS // DASHBOARD                      │
+├──────────────────────────────────────────────────────────────┤
+│ ROLE        : Developer / Builder / Creative Technician      │
+│ SPECIALTY   : Cyber tools, web platforms, portfolio systems  │
+│ LOCATION    : France                                         │
+│ WEBSITE     : kyomu.fr                                       │
+│ DISCORD     : @feitann444                                    │
+│ MODE        : shipping ideas into usable interfaces          │
+└──────────────────────────────────────────────────────────────┘
+</div>
+<h2 align="center">◤ ABOUT_ME.jsx ◢</h2> <table align="center"> <tr> <td width="50%" valign="top">
+const Eli = {
+  name: "Eli",
+  role: "Developer",
+  stack: ["Next.js", "React", "Node.js", "PHP", "MySQL"],
+  focus: ["Cyber Tools", "Web Development", "Portfolio Design"],
+  philosophy: "Build things that feel alive.",
+  website: "https://kyomu.fr",
+  discord: "@feitann444"
+}
+</td> <td width="50%" valign="top"> <img src="TON_URL_IMAGE_ABOUT" width="100%" alt="about visual"/> </td> </tr> </table> <p align="center"> I build interfaces with a strong visual identity, develop useful web tools, and like turning technical ideas into experiences that actually feel memorable. </p>
+<h2 align="center">◤ TECH_STACK.tsx ◢</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,php,python,mysql,postgres,docker,linux,git,vscode,figma&perline=7" /> </p> <p align="center"> <img src="TON_URL_IMAGE_SEPARATEUR_2" width="100%" alt="separator"/> </p>
+<h2 align="center">◤ FEATURED_MODULES ◢</h2> <div align="center"> <table> <tr> <td width="33%" valign="top"> <h3 align="center">⚡ Cyber Tools</h3> <p align="center"> Utilities, experiments, security-oriented workflows, and practical systems that solve real problems. </p> <p align="center"> <img src="TON_URL_IMAGE_CARD_1" width="100%" alt="cyber card"/> </p> </td> <td width="33%" valign="top"> <h3 align="center">🌐 Web Platforms</h3> <p align="center"> Full-stack interfaces, dynamic pages, product flows, and portfolio experiences built with structure and taste. </p> <p align="center"> <img src="TON_URL_IMAGE_CARD_2" width="100%" alt="web card"/> </p> </td> <td width="33%" valign="top"> <h3 align="center">🎨 Visual Identity</h3> <p align="center"> Sharp layouts, strong atmospheres, and clean branding concepts inspired by modern frontend design. </p> <p align="center"> <img src="TON_URL_IMAGE_CARD_3" width="100%" alt="design card"/> </p> </td> </tr> </table> </div>
+<h2 align="center">◤ LIVE_METRICS ◢</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neyth444&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&card_width=495" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyth444&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neyth444&theme=tokyonight&hide_border=true&border_radius=15" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Neyth444&theme=dracula&no-frame=true&row=1&column=6" /> </p>
+<h2 align="center">◤ CURRENT_SIGNAL ◢</h2> <p align="center"> <img src="TON_URL_GIF_TERMINAL" width="750" alt="terminal gif"/> </p> <div align="center">
+> booting eli.profile
+> loading modules...
+> [OK] cyber.tools
+> [OK] frontend.systems
+> [OK] visual.identity
+> waiting for next project...
+</div>
+<h2 align="center">◤ PROJECT_INTERFACE ◢</h2> <table align="center"> <tr> <td width="50%" valign="top"> <h3>🧩 Selected Work</h3> <ul> <li><a href="https://github.com/Neyth444">Project One</a> — short clean description</li> <li><a href="https://github.com/Neyth444">Project Two</a> — short clean description</li> <li><a href="https://github.com/Neyth444">Project Three</a> — short clean description</li> </ul> </td> <td width="50%" valign="top"> <img src="TON_URL_IMAGE_PROJECT_PANEL" width="100%" alt="project panel"/> </td> </tr> </table>
+<h2 align="center">◤ NETWORK ◢</h2> <p align="center"> <a href="https://kyomu.fr"> <img src="https://img.shields.io/badge/Website-kyomu.fr-0f172a?style=for-the-badge&logo=firefox-browser&logoColor=white"/> </a> <a href="https://discord.com"> <img src="https://img.shields.io/badge/Discord-@feitann444-111827?style=for-the-badge&logo=discord&logoColor=white"/> </a> </p> <p align="center"> <img src="https://profile-counter.glitch.me/Neyth444/count.svg" alt="visitor counter"/> </p>
+<h2 align="center">◤ FINAL_FRAME ◢</h2> <p align="center"> <img src="TON_URL_IMAGE_FOOTER" width="100%" alt="footer visual"/> </p> <p align="center"> <i>"Build something elegant enough to be remembered."</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,25:2563eb,50:5b21b6,75:1a1a40,100:0f0f1a" /> </p> 
