@@ -99,12 +99,12 @@ Sharp layouts, strong atmospheres, and clean branding concepts inspired by moder
 <h2 align="center">◤ LIVE_METRICS ◢</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neyth444&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyth444&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eli-444&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-444&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neyth444&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eli-444&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub streak" />
 </p>
 
 
